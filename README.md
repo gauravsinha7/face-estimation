@@ -6,3 +6,10 @@ Pose estimation(yaw, pitch and roll)using by Face landmarks(left eye, right eye,
 Roll:+90°：-90°/Pitch:+90°：-90°/Yaw:+90°：-90°
 
 ![Roll Pitch Yaw.png](https://raw.githubusercontent.com/gauravsinha7/face-estimation/master/roll_pitch_yaw.png)
+
+<br/>
+
+The order of numbers is ***ROLL***, ***PITCH***, ***YAW***： 
+![Sample_1.png](https://raw.githubusercontent.com/gauravsinha7/face-estimation/master/sample_1.jpg)
+![Sample_2.png](https://raw.githubusercontent.com/gauravsinha7/face-estimation/master/sample_2.JPEG)
+![Sample_3.png](https://raw.githubusercontent.com/gauravsinha7/face-estimation/master/sample_3.JPEG)
