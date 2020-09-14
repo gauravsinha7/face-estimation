@@ -32,3 +32,10 @@ The order of numbers is ***ROLL***, ***PITCH***, ***YAW*** :
 7. pitch = math.degrees(math.asin(math.sin(pitch)))
 8. roll = -math.degrees(math.asin(math.sin(roll)))
 9. yaw = math.degrees(math.asin(math.sin(yaw)))
+
+
+
+## References
+1. [Head Pose Estimation using OpenCV and Dlib](https://www.learnopencv.com/head-pose-estimation-using-opencv-and-dlib/)
+2. [MTCNN-tensorflow](https://github.com/AITTSMD/MTCNN-Tensorflow)
+
